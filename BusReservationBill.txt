@@ -1,0 +1,10 @@
+Source: Mumbai
+Destination: Arvi City
+Passengers: 2
+Total Fare: Rs.290.0
+
+Source: Mumbai
+Destination: Arvi City
+Passengers: 12
+Total Fare: Rs.1740.0
+
